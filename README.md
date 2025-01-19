@@ -1,5 +1,11 @@
-## Hi there 👋
+## Hello to my profile
 
+# 🔭 I’m currently working on unity game project, Face Detection with OpenCV and simple to-do list app using .net framework
+#🌱 I’m currently learning game development with c# unity and software development with c++
+> This too shall pass
+![5r2b2x4efhr71](https://github.com/user-attachments/assets/ddd919d3-3ace-425e-a42e-8a88df08944c)
+
+ 
 <!--
 **Hitman45-coder/Hitman45-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
